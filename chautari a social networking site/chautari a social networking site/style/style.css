@@ -1,0 +1,42 @@
+
+.homeleft{
+
+width:20%;
+height:100%;
+float:left;
+
+}
+
+.home{
+
+width:50%;
+height:100%;
+float:left;
+
+}
+
+
+
+
+.friendlist{
+	 width:16%;
+   height:100%; 
+   float:right;
+  
+ 
+   
+}
+
+
+.profile_mid{
+
+width:50%;
+height:100%;
+float:left;
+
+}
+
+
+.header{
+	position:fixed;
+}
